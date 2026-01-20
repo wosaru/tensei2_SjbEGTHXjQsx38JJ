@@ -26,18 +26,3 @@ body {
 
 }
 
-
-
-@media (max-width: 600px) {
-  #filters input {
-    font-size: 20px;
-    padding: 10px 14px;
-  }
-}
-
-
-
-
-
-
-
