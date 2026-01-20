@@ -26,3 +26,10 @@ body {
 
 }
 
+@media (max-width: 600px) {
+  .filter-group select {
+    font-size: 26px;
+    padding: 16px;
+    width: 100%;
+  }
+}
