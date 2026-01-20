@@ -26,24 +26,13 @@ body {
 
 }
 
-/* ===== フィルター入力欄を大きくする ===== */
 
-.filter-group label {
-  font-size: 16px;      /* 条件名を大きく */
-  margin-bottom: 6px;
-  display: block;
-}
-
-.filter-group select {
-  font-size: 18px;      /* 選択肢の文字を大きく */
-  padding: 8px 12px;    /* セレクトボックス自体を大きく */
-  min-width: 200px;     /* 横幅を少し確保 */
-}
 
 @media (max-width: 600px) {
   .filter-group select {
     font-size: 20px;
-    padding: 12px;
+    padding: 20px;
     width: 100%;       /* スマホでは横幅いっぱい */
   }
 }
+
