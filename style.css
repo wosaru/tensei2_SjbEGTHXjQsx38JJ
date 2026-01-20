@@ -28,11 +28,12 @@ body {
 
 
 
-
+@media (max-width: 600px) {
   .filter-group select {
     font-size: 30px;
     padding: 18px;
   }
+}
 
 
 
